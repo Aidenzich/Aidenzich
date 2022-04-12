@@ -1,5 +1,5 @@
 <!-- ![imgur](https://imgur.com/rxMWeRI.png) -->
-![gif](https://i.imgur.com/lYtUy8i.gif)
+![gif](https://i.imgur.com/5ZeR7oC.gif)
 
 <!--
 **Aidenzich/Aidenzich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
