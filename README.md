@@ -1,8 +1,9 @@
 ![imgur](https://i.imgur.com/ZR0ZpGR.png)
 <!-- **Aidenzich/Aidenzich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started: -->
 
+
+<img src="https://drive.google.com/uc?export=view&id=1Z8_hVdSfvd82yIaEBiK0e4ZERv44AZ8l">
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
