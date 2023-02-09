@@ -1,6 +1,8 @@
 ![cover](https://i.imgur.com/1Z3fIEz.png)
 
 👋 Hello there, I'm Aiden.
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aidenzich&theme=github)
 
 I'm currently a student undertaking a master's degree in computer science, studying on
