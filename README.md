@@ -10,6 +10,8 @@ I'm currently a student undertaking a master's degree in computer science, study
 - Time-series forecasting 
 - NLP
 
+[My research footfall](https://github.com/Aidenzich/road-to-master)
+
 Besides, a software engineer with experience with cloud, backend, and some frontend
 - Main use: Go, TypeScript and Python
 
