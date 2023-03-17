@@ -9,6 +9,7 @@ I'm currently a student undertaking a master's degree in computer science, study
 - Recommendation systems
 - Time-series forecasting 
 - NLP
+- Diffusion models
 
 [My research footfall](https://github.com/Aidenzich/road-to-master)
 
