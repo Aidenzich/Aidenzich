@@ -19,7 +19,3 @@ Besides, also a software engineer with experience with cloud, backend, and some 
 [Learn more about me](https://aidenzich.github.io)
 
 
-
-<div style="text-align:center">
-  <img src="https://i.imgur.com/HYwyZAj.png"/>
-</div>
