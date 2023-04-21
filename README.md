@@ -19,3 +19,7 @@ Besides, also a software engineer with experience with cloud, backend, and some 
 [Learn more about me](https://aidenzich.github.io)
 
 
+
+<div align="center">
+  <img width=800 src="https://media.makeameme.org/created/neural-networks-neural.jpg">
+</div>
