@@ -5,7 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aidenzich&theme=github)
 
-I'm currently a student undertaking a master's degree in computer science, studying on
+I'm currently a ML developer, focusing on
 - Recommendation systems
 - Time-series forecasting 
 - NLP
